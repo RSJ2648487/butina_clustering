@@ -1,0 +1,9 @@
+name: butina_clustering
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - rdkit
+  - pandas
+  - matplotlib
+  - openpyxl
